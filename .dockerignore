@@ -1,0 +1,5 @@
+# Ignore Git files and folders
+.git
+.gitignore
+
+# ...existing code...
